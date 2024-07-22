@@ -52,11 +52,11 @@ Applicant Management is a Streamlit application designed to assist with managing
 
 ### Excel Extractor
 
+   ![Excel Extractor - Upload File](gif/first.gif)
+
 1. **Upload a File:**
    - Select "Excel Extractor" from the dropdown menu.
    - Upload an Excel or CSV file.
-
-   ![Excel Extractor - Upload File](gif/first.gif)
 
 2. **Select Columns:**
    - Choose the columns you want to prioritize from the multiselect dropdown.
@@ -75,10 +75,10 @@ Applicant Management is a Streamlit application designed to assist with managing
 
 ### Score Generator
 
+   ![Score Generator - Input Job Description](gif/second.gif)
+
 1. **Input Job Description:**
    - Paste the job description into the provided text area.
-
-   ![Score Generator - Input Job Description](gif/second.gif)
 
 2. **Upload Resume:**
    - Upload the resume in PDF format.
